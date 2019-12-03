@@ -1,0 +1,68 @@
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WizardWindow.g.cs
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\WizardWindow.baml
+C:\Users\Alex\Desktop\C# Tutorial\WpfApp\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WizardWindow.g.cs
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WizardWindow.baml
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Alex\Desktop\DNUZT\WpfApp\WpfApp\obj\Debug\WpfApp.pdb

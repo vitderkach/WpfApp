@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApp.WizardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="Wizard" Height="450" Width="800" MinHeight="300" MinWidth="400">
+    <local:PaintWizard FinishButtonClosesWindow="True"  CancelButtonContent="Отмена" 
+             NextButtonContent="Далее" BackButtonContent="Назад" HelpButtonContent="Помощь">
+        <xctk:WizardPage x:Name="IntroPage" 
+                                   Title="Добро пожаловать в Paint Инсталлятор"
+                                   Description="Для установки приложения нажмите далее, для отмены остановки - отмена." >
+            <Image HorizontalAlignment="Left" Height="100" Margin="-150,-68,0,0" VerticalAlignment="Top" Width="100" Source="pack://application:,,,/Resources/Images/App/иконка главной програмы.ico"/>
+        </xctk:WizardPage>
+        <xctk:WizardPage x:Name="MiddlePage" PageType="Interior"
+                                   Title="Тссс, не двигаться!"
+                                   NextPage="{Binding ElementName=LastPage}"
+                                   CanSelectNextPage="False" CanCancel="False" BackButtonVisibility="Hidden">
+            <xctk:BusyIndicator IsBusy="False" BusyContent="Идет кража вашего времени, подождите..." >
+            </xctk:BusyIndicator>
+        </xctk:WizardPage>
+        <xctk:WizardPage x:Name="LastPage" PageType="Interior"
+                                   Title="Поздравляем, Paint Инсталятор работает исправно!"
+                                   Description="Короче, все работает. Нажимаем далее и смотрим на интерфейс программы ;)"
+                                   CanFinish="True" CancelButtonVisibility="Hidden" NextButtonVisibility="Hidden" BackButtonVisibility="Hidden" HelpButtonVisibility="Hidden"/>
+    </local:PaintWizard>
+    
+    
+    
+    
+    
+    
+    
+</Window>
